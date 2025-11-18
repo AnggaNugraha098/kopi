@@ -102,6 +102,10 @@ body {
   padding: 1.4rem 7%;
   max-width: 60rem;
 }
+
+.hero .content .foof {
+  size: 1rem;
+}
 .hero .content h1 {
   font-size: 5em;
   color: #fff;
